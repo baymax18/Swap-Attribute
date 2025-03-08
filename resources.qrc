@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/swap_attribute" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>

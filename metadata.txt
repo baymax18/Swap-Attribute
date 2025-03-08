@@ -1,0 +1,9 @@
+[general]
+name=Swap Attribute
+qgisMinimumVersion=3.0
+version=1.0
+description=swap attribute values for selected features in the current QGIS project.
+author=VishnuDurga
+email=post2vd@gmail.com
+category=Processing
+pluginType=python
